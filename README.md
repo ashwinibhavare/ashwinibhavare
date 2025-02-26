@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashwini Bhavare</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working at **Paarsh Education**
+- 🔭 I’m currently working at **Paarsh Infotech Nashik**
 
 - 🌱 I’m currently learning **Reactjs,Nextjs**
 
