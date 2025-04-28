@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Paarsh Infotech Nashik**
 
-- 🌱 I’m currently learning **Reactjs,Nextjs**
+- 🌱 I’m currently learning **Reactjs,tailwind Css**
 
 - 📫 How to reach me **ashwinibhavare05@gmail.com**
 
